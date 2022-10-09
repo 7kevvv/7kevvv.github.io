@@ -1,0 +1,79 @@
+
+                .Title {
+                    color: blueviolet;
+                    text-align: center;
+                    font-weight: bold;
+                    height: 20px;
+                }
+                
+                h1 {
+                    color:white;
+                    font-weight: bold;
+                }
+
+                .Intro {
+                    color: grey;
+                    font-family: cursive;
+                    font-size: 160%;
+
+
+                }
+
+                .IntroAdd {
+                    color:whitesmoke;
+                    font-family: cursive;
+                    font-size: 150%;
+                    font-weight: bold;
+                       
+                }
+
+                .FAQ1 {
+                    color: gray;
+                    font-family: cursive;
+                    font-size: 160%;
+                    text-align: left;
+                    font-weight: bold;
+                }
+
+                .FAQ1ADD {
+                    color:whitesmoke;
+                    font-family: cursive;
+                    font-size: 150%;
+                    font-weight: bold;
+                }
+
+                .FAQText {
+                    color:black;
+                    font-family: cursive;
+                    font-size: 180%;
+                    font-weight: bold;
+                    text-align: left;
+                }
+
+                img {
+                    width: 300px;
+                    margin-left: 800px;
+                    margin-bottom: 0px;
+               
+                    
+                }
+
+                .Contact {
+                    font-weight: bold;
+                    font-family: cursive;
+                    text-align: center;
+                    margin-block: 1px;
+                    font-size: 180%;
+                    
+         
+
+                }
+
+                .Discord {
+                    font-weight: bold;
+                    font-family: cursive;
+                    font-size: 120%;
+                    color:yellow;
+                    text-align: center;
+                }
+  
