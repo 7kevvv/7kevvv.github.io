@@ -1,6 +1,6 @@
 10/08/22
 Introduction:
-Hello, my name is Chaqken or Kevin I have just started HTML, CSS and JS, and testing out with this website on features i can do. Please give me suggestions on what I should add as I have no creativity.
+Hello, my name is Mike I have just started HTML, CSS and JS, and testing out with this website on features i can do. Please give me suggestions on what I should add as I have no creativity.
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Changelog:
  
