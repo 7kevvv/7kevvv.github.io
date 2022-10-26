@@ -24,3 +24,7 @@ Hello, my name is Mike I have just started HTML, CSS and JS, and testing out wit
           *Added things in main.JS
              - Added alerts on launch of website for information.
              - added them in functions.
+             
+             W.I.P
+             -Function calculator for addition, subtraction, math,
+             -Interactive user input settings via the website.
