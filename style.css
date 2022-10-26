@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 { color: white;
+   
+
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color:white;
+}
+
+#Multiplication {
+    color:red;
+}
+
+#division {
+    color:red;
+}
+
+#addition {
+    color:red;
+}
+
+h2 {
+    color:white;
+    
+}
